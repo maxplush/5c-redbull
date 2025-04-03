@@ -22,7 +22,7 @@ Only **44 people responded**, so the insights aren't statistically strong—but 
 
 To bring the project to life, I:
 - Created a short, insight-driven survey focused on consumption habits, purchase paths, and brand perception
-- Built a **life-sized**[Red Bull Can](images/redbull_craft.jpg) to attract attention 
+- Built a **life-sized Red Bull can** ![Red Bull Can](images/redbull_craft.jpg) to attract attention 
 - **Gave away free Red Bull** to incentivize survey signups
 - Was planning a **DJ set activation** to drive more responses (ran out of time)
 
