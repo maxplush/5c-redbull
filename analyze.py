@@ -7,29 +7,31 @@ conn = sqlite3.connect("redbull_survey.db")
 # Define queries
 queries = {
     "Occasion Breakdown": """
-        SELECT occasion, COUNT(*) AS count
-        FROM survey_responses
-        GROUP BY occasion
-        ORDER BY count DESC;
+    SELECT
+        occasion AS response,
+        COUNT(*) AS count,
+        ROUND(COUNT(*) * 100.0 / (SELECT COUNT(*) FROM survey_responses), 1) AS percentage
+    FROM survey_responses
+    GROUP BY response
+    ORDER BY count DESC;
     """,
     "Purchase Location": """
-        SELECT purchase_location, COUNT(*) AS count
-        FROM survey_responses
-        GROUP BY purchase_location
-        ORDER BY count DESC;
+    SELECT
+        purchase_location AS response,
+        COUNT(*) AS count,
+        ROUND(COUNT(*) * 100.0 / (SELECT COUNT(*) FROM survey_responses), 1) AS percentage
+    FROM survey_responses
+    GROUP BY response
+    ORDER BY count DESC;
     """,
     "Motivation to Buy": """
-        SELECT buy_motivation, COUNT(*) AS count
-        FROM survey_responses
-        GROUP BY buy_motivation
-        ORDER BY count DESC;
-    """,
-    "Brand Vibes (Top Mentions)": """
-        SELECT brand_vibe, COUNT(*) AS count
-        FROM survey_responses
-        GROUP BY brand_vibe
-        ORDER BY count DESC
-        LIMIT 10;
+    SELECT
+        buy_motivation AS response,
+        COUNT(*) AS count,
+        ROUND(COUNT(*) * 100.0 / (SELECT COUNT(*) FROM survey_responses), 1) AS percentage
+    FROM survey_responses
+    GROUP BY response
+    ORDER BY count DESC;
     """
 }
 
