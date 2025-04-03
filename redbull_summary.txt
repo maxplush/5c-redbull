@@ -1,0 +1,46 @@
+# 🧠 Red Bull x 5C Survey Summary
+
+## 📊 Occasion Breakdown
+
+- **🚫 I don’t drink energy drinks**: 14 responses (31.8%)
+- **🧠 While studying or working late**: 11 responses (25.0%)
+- **😴 When I’m feeling tired or hungover**: 9 responses (20.5%)
+- **🏋️ Before or after working out**: 5 responses (11.4%)
+- **🎉 At parties or social events**: 5 responses (11.4%)
+
+## 📊 Purchase Location
+
+- **🤷 I never buy Red Bull**: 18 responses (40.9%)
+- **🛒 Campus store (Hub, Coop, Pit Stop, etc.)**: 10 responses (22.7%)
+- **📦 Off-campus store / delivery**: 10 responses (22.7%)
+- **🧊 Vending machine**: 6 responses (13.6%)
+
+## 📊 Motivation to Buy
+
+- **💸 Lower price / student discount**: 22 responses (50.0%)
+- **🚫 Nothing—I wouldn’t buy it either way**: 9 responses (20.5%)
+- **🐂 Sick campus events**: 6 responses (13.6%)
+- **😋 More flavor options**: 5 responses (11.4%)
+- **🧊 Better cooler or shelf placement**: 1 responses (2.3%)
+- **🎁 Bundles or giveaways**: 1 responses (2.3%)
+
+## 🎨 Brand Vibe Word Frequency & Sentiment
+
+### 🔠 Top 10 Words Used
+
+- energetic: 4 mentions
+- a: 3 mentions
+- the: 3 mentions
+- bro: 3 mentions
+- chill: 2 mentions
+- at: 2 mentions
+- grace: 2 mentions
+- party: 1 mentions
+- animal: 1 mentions
+- chaotic: 1 mentions
+
+### 😊 Sentiment Breakdown
+
+- Neutral: 68.0%
+- Positive: 25.0%
+- Negative: 7.000000000000001%
