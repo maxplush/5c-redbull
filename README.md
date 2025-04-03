@@ -1,5 +1,5 @@
 # Red Bull x Claremont Colleges 
-![Build Status](https://github.com/maxplush/5c-redbull/actions/workflows/test-workflow.yml/badge.svg)
+[![Build Status](https://github.com/maxplush/5c-redbull/actions/workflows/test-workflows.yml/badge.svg)](https://github.com/maxplush/5c-redbull/actions/workflows/test-workflows.yml)
 ### A Micro Shopper Insights Proof-of-Concept Across the 5C Campuses
 
 ## What's This?
