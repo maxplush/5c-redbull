@@ -26,21 +26,16 @@
 
 ## 🎨 Brand Vibe Word Frequency & Sentiment
 
-### 🔠 Top 10 Words Used
+### 🔠 Top 5 Words Used
 
 - energetic: 4 mentions
-- a: 3 mentions
-- the: 3 mentions
 - bro: 3 mentions
 - chill: 2 mentions
-- at: 2 mentions
 - grace: 2 mentions
 - party: 1 mentions
-- animal: 1 mentions
-- chaotic: 1 mentions
 
-### 😊 Sentiment Breakdown
+### 😊 Sentiment Breakdown (Based on 28 responses)
 
-- Neutral: 68.0%
-- Positive: 25.0%
-- Negative: 7.000000000000001%
+- Neutral: 19 responses (68.0%)
+- Positive: 7 responses (25.0%)
+- Negative: 2 responses (7.0%)
