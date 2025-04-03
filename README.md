@@ -1,6 +1,7 @@
 # Red Bull x Claremont Colleges 
 [![Build Status](https://github.com/maxplush/5c-redbull/actions/workflows/test-workflows.yml/badge.svg)](https://github.com/maxplush/5c-redbull/actions/workflows/test-workflows.yml)
 ### A Micro Shopper Insights Proof-of-Concept Across the 5C Campuses
+![Survey Promo](images/redbull_banner.png)
 
 ## What's This?
 
@@ -21,7 +22,7 @@ Only **44 people responded**, so the insights aren't statistically strong—but 
 
 To bring the project to life, I:
 - Created a short, insight-driven survey focused on consumption habits, purchase paths, and brand perception
-- Built a **life-sized Red Bull can** to attract attention
+- Built a **life-sized**[Red Bull Can](images/redbull_craft.jpg) to attract attention 
 - **Gave away free Red Bull** to incentivize survey signups
 - Was planning a **DJ set activation** to drive more responses (ran out of time)
 
