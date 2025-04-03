@@ -38,7 +38,16 @@ queries = {
     FROM survey_responses
     GROUP BY response
     ORDER BY count DESC;
-    """
+    """,
+    "Purchase Location": """
+    SELECT
+        purchase_location AS response,
+        COUNT(*) AS count,
+        ROUND(COUNT(*) * 100.0 / (SELECT COUNT(*) FROM survey_responses), 1) AS percentage
+    FROM survey_responses
+    GROUP BY response
+    ORDER BY count DESC;
+    """,
 }
 
 # Initialize output summary

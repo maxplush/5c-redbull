@@ -1,94 +1,49 @@
-# 🔴 Red Bull x Claremont Colleges  
-### A Micro Market & Shopper Insights Study Across the 5C Campuses
+# Red Bull x Claremont Colleges  
+### A Micro Shopper Insights Proof-of-Concept Across the 5C Campuses
 
-## 🎯 Core Question
-How do consumption habits, preferences, and brand perceptions differ across the 5C campuses, and what opportunities exist to improve Red Bull’s presence and positioning on each?
+## 🎯 What's This?
 
----
+This was a **scrappy, creative passion project** inspired by the Red Bull **Insights & Analytics Graduate Program**.
 
-## 🧠 Project Overview
+I ran a lightweight survey activation across the Claremont Colleges (Pomona, Pitzer, Scripps, CMC, Harvey Mudd), offering free Red Bull and collecting feedback on:
 
-A fun creative micro-study inspired by my interest in Red Bull’s **Insights & Analytics Graduate** program. My goal was to simulate the type of shopper insights work Red Bull does across On Premise accounts—except at a hyper-local level within the Claremont Colleges (Pomona, Pitzer, Scripps, CMC, and Harvey Mudd).
+- When students drink energy drinks (study, party, workout, etc.)
+- Where they go to buy them on campus
+- What would make them choose Red Bull over competitors
+- And if Red Bull were a person, what kind of vibe it would have 👀
 
-I designed and distributed a fun, occasion-based survey paired with free Red Bull samples to better understand:
-
-- **Consumption occasions** (e.g., studying, partying, working out)  
-- **Path to purchase** (where students typically buy Red Bull on or off campus)  
-- **Price perception and promo interest**  
-- **Brand image** across different campuses  
-- **Campus-specific execution suggestions** (cooler placement, events, promotions)
-
-Although the sample size was modest (44 responses), the process was fun and reflective of the creative and analytical thinking I would bring to Red Bull’s Insights team. I even made this life size Red Bull can! 
+Only **44 people responded**, so the insights aren't statistically strong—but this was more of a **proof of concept** to show how I think about segmentation, pricing, brand image, and on-premise execution.
 
 ---
 
-## 📝 Survey Design
+## 🎨 The Fun Stuff
 
-Survey was optimized to map to common Red Bull analytics dimensions, like **On Premise Occasion Mapping**, **Price Communication**, and **Execution Insights**.
+To bring the project to life, I:
+- Created a short, insight-driven survey focused on consumption habits, purchase paths, and brand perception
+- Built a **life-sized Red Bull can** to attract attention
+- **Gave away free Red Bull** to incentivize survey signups
+- Was planning a **DJ set activation** to drive more responses (ran out of time)
 
-### Key Questions:
-- **What school do you go to?**  
-  → Enables segmentation across the 5Cs.
-
-- **When do you usually drink energy drinks?**  
-  → Maps to consumption occasions:
-    - 🧠 Studying or late-night work  
-    - 🏋️‍♀️ Pre-workout  
-    - 🎉 Parties/social events  
-    - 😴 Hangovers/tiredness  
-    - 🚫 I don’t drink energy drinks  
-
-- **Where would you go to get an energy drink on campus?**  
-  → Reveals preferred purchase paths:
-    - 🧊 Vending machines  
-    - 🛒 Campus stores (The Hub, The Coop, etc.)  
-    - 📦 Off-campus or delivery  
-    - 🤷‍♂️ Not sure where to go  
-
-- **What would make you more likely to buy Red Bull?**  
-  → Hits on execution and promo levers:
-    - 💸 Lower price / student discount  
-    - 🎁 Bundles or giveaways  
-    - 😋 More flavor options  
-    - 🐂 More campus events / presence  
-    - 🧊 Better cooler placement  
-    - 🚫 Wouldn’t buy regardless  
-
-- **If Red Bull was a person on campus, what kind of vibe would they have?** *(optional)*  
-  → Fun brand perception check — free response + optional AI image output.
+This project was a way to blend **creativity, hustle, and analytical thinking**—everything I’m excited to bring to the Red Bull team.
 
 ---
 
-## 🔍 Learnings
+## 🛠️ What's in This Repo
 
-- Students are highly occasion-driven (studying and pre-workout were top drivers).
-- Many students didn’t know where Red Bull was sold on campus — **distribution visibility is low.**
-- Flavor variety and price were the most requested improvements.
-- Brand perception varies by campus — Pitzer and Scripps respondents associated Red Bull with a more niche/functional vibe, while CMC students leaned into party energy.
+Just a simple pipeline:
 
+- `main.py`: reads the survey export CSV and loads it into a SQLite database
+- `analyze.py`: runs preset SQL queries and light sentiment analysis, then generates a clean insights summary
+- `red_bull_summary.txt`: auto-generated insights report with survey breakdowns, purchase patterns, and brand sentiment.
+
+It's not a dashboard — but it’s fast, readable, and insight-ready.
 ---
 
-## 🌟 Why I Did This
+## 🚀 Why It Matters
 
-This project was a creative way for me to:
-- Explore the kind of questions and methods used in **shopper and occasion-based insights**
-- Simulate a small-scale version of **On Premise segmentation work**
-- Express genuine interest in Red Bull’s **Insights & Analytics Graduate Program**
+This project let me:
+- Simulate small-scale **shopper & on-premise insights**
+- Get creative with execution (events, giveaways, branding)
+- Show genuine excitement for a role that blends **analytics + marketing + field engagement**
 
----
-
-## 🚀 Program Fit: Insights & Analytics Grad @ Red Bull
-
-This project reflects key competencies aligned with the role:
-
-- **On Premise Insights**  
-  → Created a cadence of field insights with tailored campus-level segmentation.
-
-- **Execution Insights**  
-  → Simulated how pricing, flavor variety, and cooler presence impact purchase behavior.
-
-- **Market Analytics**  
-  → Translated qualitative and quantitative survey data into opportunities for improved on-campus visibility and engagement.
-
-- **Cross-functional Mindset**  
-  → Project integrates perspectives from field sales, brand marketing, and shopper experience.
+Thanks for reading!
