@@ -22,7 +22,7 @@ Only **44 people responded**, so the insights aren't statistically strong—but 
 
 To bring the project to life, I:
 - Created a short, insight-driven survey focused on consumption habits, purchase paths, and brand perception
-- Built a **life-sized Red Bull can** ![Red Bull Can](images/redbull_craft.jpg) to attract attention 
+- Built a **life-sized Red Bull can** to attract attention ![Red Bull Can](images/redbull_craft.jpg)
 - **Gave away free Red Bull** to incentivize survey signups
 - Was planning a **DJ set activation** to drive more responses (ran out of time)
 
@@ -44,3 +44,7 @@ This project let me:
 - Show genuine excitement for a role that blends **analytics + marketing + field engagement**
 
 Thanks for reading!
+
+<p align="center">
+  <img src="images/redbull_craft.jpg" alt="Red Bull Can Craft" width="300">
+</p>
