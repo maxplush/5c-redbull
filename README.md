@@ -1,7 +1,7 @@
 # Red Bull x Claremont Colleges  
 ### A Micro Shopper Insights Proof-of-Concept Across the 5C Campuses
 
-## 🎯 What's This?
+## What's This?
 
 This was a **scrappy, creative passion project** inspired by the Red Bull **Insights & Analytics Graduate Program**.
 
@@ -16,7 +16,7 @@ Only **44 people responded**, so the insights aren't statistically strong—but 
 
 ---
 
-## 🎨 The Fun Stuff
+## The Fun Stuff
 
 To bring the project to life, I:
 - Created a short, insight-driven survey focused on consumption habits, purchase paths, and brand perception
@@ -26,18 +26,13 @@ To bring the project to life, I:
 
 This project was a way to blend **creativity, hustle, and analytical thinking**—everything I’m excited to bring to the Red Bull team.
 
----
-
-## 🛠️ What's in This Repo
+## What's in This Repo
 
 Just a simple pipeline:
 
 - `main.py`: reads the survey export CSV and loads it into a SQLite database
 - `analyze.py`: runs preset SQL queries and light sentiment analysis, then generates a clean insights summary
 - `red_bull_summary.txt`: auto-generated insights report with survey breakdowns, purchase patterns, and brand sentiment.
-
-It's not a dashboard — but it’s fast, readable, and insight-ready.
----
 
 ## 🚀 Why It Matters
 
