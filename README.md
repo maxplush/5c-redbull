@@ -21,8 +21,8 @@ Only **44 people responded**, so the insights aren't statistically strong—but 
 ## The Fun Stuff
 
 To bring the project to life, I:
-- Created a short, insight-driven survey focused on consumption habits, purchase paths, and brand perception
-- Built a **life-sized Red Bull can** to attract attention [Red Bull Can](images/redbull_craft.jpg)
+- Created a short, insight-driven survey focused on consumption habits, purchase paths, and brand perception [Survey Link](https://docs.google.com/forms/d/e/1FAIpQLSfxxcizbHYAWEm_0Lt3ikPXFAVtqOTN9WGs7SRDaZHa89hzhA/viewform)
+- Built a **life-sized Red Bull can** to attract attention [Cardboard Redbull -Check it out!](images/redbull_craft.jpg)
 - **Gave away free Red Bull** to incentivize survey signups
 - Was planning a **DJ set activation** to drive more responses (ran out of time)
 
@@ -41,9 +41,7 @@ Just a simple pipeline:
 This project let me:
 - Simulate small-scale **shopper & on-premise insights**
 - Get creative with execution (events, giveaways, branding)
-- Show genuine excitement for a role that blends **analytics + marketing + field engagement**
-
-Thanks for reading!
+- Learn how Red Bull is perceived at the Claremont Colleges
 
 <p align="center">
   <img src="images/redbull_craft.jpg" alt="Red Bull Can Craft" width="300">
