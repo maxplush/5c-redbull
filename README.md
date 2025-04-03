@@ -21,8 +21,8 @@ Only **44 people responded**, so the insights aren't statistically strong—but 
 ## The Fun Stuff
 
 To bring the project to life, I:
-- Created a short, insight-driven survey focused on consumption habits, purchase paths, and brand perception [Survey Link](https://docs.google.com/forms/d/e/1FAIpQLSfxxcizbHYAWEm_0Lt3ikPXFAVtqOTN9WGs7SRDaZHa89hzhA/viewform)
-- Built a **life-sized Red Bull can** to attract attention [Cardboard Redbull -Check it out!](images/redbull_craft.jpg)
+- Created a short, insight-driven [survey](https://docs.google.com/forms/d/e/1FAIpQLSfxxcizbHYAWEm_0Lt3ikPXFAVtqOTN9WGs7SRDaZHa89hzhA/viewform) focused on consumption habits, purchase paths, and brand perception 
+- Built a **life-sized Red Bull can** to attract attention [Check it out!](images/redbull_craft.jpg)
 - **Gave away free Red Bull** to incentivize survey signups
 - Was planning a **DJ set activation** to drive more responses (ran out of time)
 
@@ -36,7 +36,7 @@ Just a simple pipeline:
 - `analyze.py`: runs preset SQL queries and light sentiment analysis, then generates a clean insights summary
 - `red_bull_summary.txt`: auto-generated insights report with survey breakdowns, purchase patterns, and brand sentiment.
 
-## 🚀 Why It Matters
+## Why It Matters
 
 This project let me:
 - Simulate small-scale **shopper & on-premise insights**
