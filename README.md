@@ -46,3 +46,7 @@ This project let me:
 <p align="center">
   <img src="images/redbull_craft.jpg" alt="Red Bull Can Craft" width="300">
 </p>
+
+<p align="center">
+  <img src="images/max_tabeling.jpeg" alt="Survey Tableing" width="300">
+</p>
